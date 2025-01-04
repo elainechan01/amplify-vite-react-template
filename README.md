@@ -1,25 +1,32 @@
-## AWS Amplify React+Vite Starter Template
+# The AWS Cloud Conjurer
+## Getting the Tune
 
-This repository provides a starter template for creating applications using React+Vite and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
+Welcome back magicians! If you came from playing the game(), please read the following instructions _in sequence_.
 
-## Overview
+### Part 1
 
-This template equips you with a foundational React application integrated with AWS Amplify, streamlined for scalability and performance. It is ideal for developers looking to jumpstart their project with pre-configured AWS services like Cognito, AppSync, and DynamoDB.
+This is for the host!
+1. Clone this repository to your own GitHub account
+2. On the AWS console, locate AWS Amplify
+3. Create a new app
+   1. Configure to deploy the app from GitHub and select Next
+   2. Follow the instructions to authenticate Amplify to access your GitHub account
+   3. Connect to the newly-cloned app
+ 4. When the app has finished deploying, share the link with your assistants
 
-## Features
+### Part 2
 
-- **Authentication**: Setup with Amazon Cognito for secure user authentication.
-- **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
-- **Database**: Real-time database powered by Amazon DynamoDB.
+This is for the assistants!
 
-## Deploying to AWS
+Enter the tune into the web app as shared by the host.
 
-For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws) of our documentation.
+### Finally
 
-## Security
+This is for the host!
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+**When you've completed the game, feel free to delete the AWS Amplify web app.**
 
-## License
+## Resources
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+- [Original Template Repo](https://github.com/aws-samples/amplify-vite-react-template)
+- [AWS Amplify Docs](https://docs.amplify.aws/react/start/quickstart/)
