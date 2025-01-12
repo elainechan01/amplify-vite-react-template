@@ -1,7 +1,7 @@
 # The AWS Cloud Conjurer
 ## Getting the Tune
 
-Welcome back magicians! If you came from playing the (game)[https://elainechan01.itch.io/the-aws-cloud-conjurer], please read the following instructions _in sequence_.
+Welcome back magicians! If you came from playing the [game](https://elainechan01.itch.io/the-aws-cloud-conjurer), please read the following instructions _in sequence_.
 
 ### Part 1
 
