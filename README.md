@@ -6,7 +6,7 @@ Welcome back magicians! If you came from playing the game(), please read the fol
 ### Part 1
 
 This is for the host!
-1. Clone this repository to your own GitHub account
+1. Fork this repository to your own GitHub account
 2. On the AWS console, locate AWS Amplify
 3. Create a new app
    1. Configure to deploy the app from GitHub and select Next
